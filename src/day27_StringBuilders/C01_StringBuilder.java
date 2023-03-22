@@ -42,6 +42,7 @@ public class C01_StringBuilder {
             sb4.trimToSize();
             System.out.println(sb4.capacity()); //25
             System.out.println(sb4.length()); // 25
+            // deneme yapicam token sormamasi lazimdi
         }
     }
 
